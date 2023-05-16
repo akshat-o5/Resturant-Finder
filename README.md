@@ -16,4 +16,4 @@ An interactive UI design of a resturant finder website which helps you find a re
 => Vanilla Javascript <br />
 
 ## Link:
-https://akshat-o5.github.io/CalcuMate/
+https://akshat-o5.github.io/Resturant-Finder/
