@@ -13,6 +13,7 @@ An interactive UI design of a resturant finder website which helps you find a re
 
 => HTML <br />
 => CSS <br />
+=> Vanilla Javascript <br />
 
 ## Link:
 https://akshat-o5.github.io/CalcuMate/
